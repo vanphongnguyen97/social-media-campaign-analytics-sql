@@ -23,7 +23,7 @@ A relational database designed and built in **MySQL** to track the full customer
 ```
 .
 ├── sql/
-│   ├── 01_create_schema.sql       
+│   ├── Create Database.sql       
 │   ├── Insert Value.sql    
 │   └── Business Case.sql     # The 7 analytical queries
 ├── docs/
