@@ -23,12 +23,11 @@ A relational database designed and built in **MySQL** to track the full customer
 ```
 .
 ├── sql/
-│   ├── 01_create_schema.sql        # CREATE DATABASE + CREATE TABLE statements
-│   ├── 02_insert_dummy_data.sql    # INSERT statements for all 10 tables
-│   └── 03_business_queries.sql     # The 7 analytical queries
+│   ├── 01_create_schema.sql       
+│   ├── Insert Value.sql    
+│   └── Business Case.sql     # The 7 analytical queries
 ├── docs/
-│   ├── ERD.png                     # ER diagram (Chen's notation)
-│   └── report.pdf                  # Full analytics report
+│   └── ERD.png                     # ER diagram (Chen's notation)
 └── README.md
 ```
 
