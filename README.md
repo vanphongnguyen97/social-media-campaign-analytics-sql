@@ -98,7 +98,6 @@ A relational database designed and built in **MySQL** to track the full customer
 ### Example: CTR by campaign
 
 ```sql
--- Paste your exact query from 03_business_queries.sql here
 SELECT  a.Campaign_Name,
         COUNT(DISTINCT v.ViewID)  AS Total_Views,
         COUNT(DISTINCT c.ClickID) AS Total_Clicks,
@@ -136,5 +135,4 @@ ORDER BY CTR_Percent DESC;
 ## 👤 Author
 
 **Van Phong Nguyen**
-Master's student, Macquarie University
 📧 phongnguyenvan97dn@gmail.com
