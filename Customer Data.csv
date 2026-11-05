@@ -1,0 +1,13 @@
+CustomerID,Full_Name,Email,Phone_Number,Registration_Date
+1,"John Smith",john@example.com,0400000001,2024-01-10
+2,"Emma Brown",emma@example.com,0400000002,2024-02-15
+3,"Liam Wilson",liam@example.com,0400000003,2024-03-01
+4,"Olivia Taylor",olivia@example.com,0400000004,2024-03-20
+5,"Noah Davis",noah@example.com,0400000005,2024-04-05
+6,"Ava Johnson",ava@example.com,0400000006,2024-04-18
+7,"William White",william@example.com,0400000007,2024-05-02
+8,"Sophia Harris",sophia@example.com,0400000008,2024-05-10
+9,"James Martin",james@example.com,0400000009,2024-05-15
+10,"Isabella Clark",isabella@example.com,0400000010,2024-05-20
+11,"Lucas Walker",lucas@example.com,0400000011,2024-05-22
+12,"Mia Hall",mia@example.com,0400000012,2024-05-25
