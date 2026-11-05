@@ -2,7 +2,6 @@
 
 A relational database designed and built in **MySQL** to track the full customer journey for an online retailer: **ad view → ad click → order → payment**. The project then uses SQL to answer the Chief Marketing Officer's questions about social media campaign performance for the **End of Financial Year (EOFY) sale**.
 
-> Individual assignment for **BUSA8090 – Data and Visualisation for Business**, Macquarie University (Macquarie Business School), 2026.
 > The case is based on David Jones. **All data is dummy data** created for this project. It is not affiliated with or endorsed by David Jones.
 
 ---
@@ -125,17 +124,6 @@ ORDER BY CTR_Percent DESC;
 
 ---
 
-## ▶️ How to Run
-
-1. Install [MySQL](https://dev.mysql.com/downloads/) and MySQL Workbench.
-2. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/social-media-campaign-analytics-sql.git
-   ```
-3. In MySQL Workbench, open and run the scripts in order:
-   1. `sql/01_create_schema.sql`
-   2. `sql/02_insert_dummy_data.sql`
-   3. `sql/03_business_queries.sql`
 
 ---
 
